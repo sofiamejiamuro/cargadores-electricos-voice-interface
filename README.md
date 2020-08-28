@@ -1,6 +1,8 @@
 # Voltio Station Voice Interface 🔌 
 
 Esta interfaz de voz se diseñó y desarrolló como propuesta de valor a la webapp [cargadores eléctricos](https://github.com/sofiamejiamuro/cargadores-electricos).
+
+![](assets/mvp.gif)
  
 ## Conversation design
 
@@ -26,7 +28,7 @@ Para este MVP se definieron los siguientes *intents* con sus respectivas *uttera
 Una vez diseñada la conversación se desarrollo la skill con JavaScript en la alexa developer console. El codigo se puede ver [aquí](https://github.com/sofiamejiamuro/cargadores-electricos-voice-interface/blob/master/index.js).
 
 
-## Skill ¿Quién sabe más?
+## Skill Voltio Station
 
 A continuación se pueden escuchar dos grabaciones de la interación persona - Alexa en este juego.
 
